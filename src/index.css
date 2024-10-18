@@ -252,15 +252,21 @@ main{
   }
   
   .arrow3{
-    transform: translate(-135px,-80px);
+    transform: translate(115px,-430px);
   }
   
   .circle4{
     transform: translate(89px,-445px);
   }
   p{
-    font-size: 8px;
-    width: 60px;
+    font-size: 3px;
+  }
+
+  .circle img{
+    width: 10px;
+    height: auto;
   }
   
 }
+
+
